@@ -21,6 +21,7 @@ As a Blockchain/React developer having 5+ years of experience, I am comfortable 
 - Experience
 I am highly confident in Web3, ERC20 token, Git workflow, and React.js.
 And I have experience in moralis, hardhat and typechain, too.
+In web development, I am strong in Laravel/CI/Wordpress.
 
 - Freelancer
 https://www.guru.com/freelancers/andrei-slusari
