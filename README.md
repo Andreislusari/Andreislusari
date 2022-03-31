@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile.
+As a Blockchain/React developer having 5+ years of experience, I am comfortable with complex design and workflow of the project, and I can provide reasonably quick project turnaround.
+
+- Experience
+I am highly confident in Web3, ERC20 token, Git workflow, and React.js.
+And I have experience in moralis, hardhat and typechain, too.
+
+- Freelancer
+https://www.guru.com/freelancers/andrei-slusari
+
+Thank you.
+Andrei.
+
+
